@@ -1,0 +1,69 @@
+ID_ESTABLECIMIENTO,nombre,latitud,longitud,estado,Municipio_Establecimiento,Tipo_Establecimeinto,Nombre_POI,Latitud_POI,Longitud_POI,Costo_POI,tiempoEstancia_POI,descripcion_POI,Municipio_POI,ID_RUTA,Nombre_Ruta,Costo_Ruta,tiempo_Ruta,Distancia_Ruta_KM,fecha_LOG,Hora_LOG,EVENTO_LOG,POI_NOMBRE_TIPOLOGIA,POI_TIPOLOGIA
+1,El peón,4.340340,-74.358460,1,Fusagasugá,Restaurante, Casona del Balmoral,4.334462,-74.368440,0,30,Poi,Fusagasugá,1,prueba,0,19,16,09/06/2021,7:05:56,Modificar,Casona del Balmoral,Arquitectonico
+2,Oh my DOG,4.347568,-74.357796,1,Fusagasugá,Restaurante, Casona de la Tulipana,4.337287,-74.363630,0,15,Poi,Fusagasugá,2,Ruta1,0,326,37,09/06/2021,7:08:29,Modificar,Casona del Balmoral,Museos
+3,El rey de la pizza,4.346813,-74.357748,1,Fusagasugá,Restaurante, Casona de Coburgo,4.338835,-74.359410,0,20,Poi,Fusagasugá,3,ruta2,0,19,1,4,09/06/2021,7:42:13,Crear,Casona del Balmoral,Historico y artistico
+4,Hotel central Fusa,4.343569,-74.362898,1,Fusagasugá,Hotel, Petroglifos,4.249299,-74.373990,0,60,Poi,Arbelaéz,4,ruta3,0,38,2,09/06/2021,7:51:12,Crear,Casona de la Tulipana,Arquitectonico
+5,Hotel Santa Monica,4.342588,-74.363036,1,Fusagasugá,Hotel, Hacienda cafetera Coloma,4.343065,-74.377280,0,120,Poi,Fusagasugá,5,ruta6,0,32,2,09/06/2021,7:51:28,Modificar,Casona de la Tulipana,Historico y artistico
+7,Terpel,4.347962,-74.361039,1,Fusagasugá,Gasolinera, Parroquia nuestra senora de belen,4.344037,-74.361630,0,20,Poi,Fusagasugá,7,ruta7,0,579,153,09/06/2021,7:51:38,Modificar,Casona de Coburgo,Arquitectonico
+8,Hospital San Rafael,4.333441,-74.371329,1,Fusagasugá,Hospital, Parroquia nuestra senora de la encarnacion,4.308809,-74.299890,0,20,Poi,Pasca,8,ttth,5000,317,23,09/06/2021,7:52:28,Crear,Casona de Coburgo,Museos
+9,Clinica Belen,4.336193,-74.366158,1,Fusagasugá,Hospital, Parroquia inmaculada concepciÃ³n,4.272110,-74.414520,0,20,Poi,Arbelaéz,9,miruta,0,41,4,09/06/2021,7:52:38,Modificar,Casona de Coburgo,Historico y artistico
+,,,,,,, Parroquia santa lucia,4.348481,-74.453190,0,20,Poi,Tibacuy,10,jkkk,0,426,128,09/06/2021,7:54:03,Modificar,Petroglifos,Etnologico
+,,,,,,,Cerro del Quinini,4.329009,-74.497520,0,240,Poi,Tibacuy,11,Mi ruta nueva,0,349,115,09/06/2021,7:58:21,Crear,Petroglifos,Arqueologico
+,,,,,,, Parque San Rafael,4.389691,-74.322510,0,180,Poi,Fusagasugá,12,ruta nueva,0,27,1,3,09/06/2021,7:59:57,Crear,Hacienda cafetera Coloma,Sitios Naturales
+,,,,,,, Ecoparque Chinauta,4.285173,-74.472110,0,45,Poi,Fusagasugá,13,Ruta prueba,0,78,2,09/06/2021,8:00:05,Crear,Hacienda cafetera Coloma,Arquitectonico
+,,,,,,, Museo de arqueologico,4.308485,-74.299270,0,60,Poi,Pasca,14,Ruta prueba 2,0,78,23,09/06/2021,8:36:08,Crear,Parroquia nuestra senora de belen,Arquitectonico
+,,,,,,, Monumento a la revolucion agraria,4.404757,-74.387220,0,15,Poi,Silvania,15,prueba3,0,562,97,09/06/2021,9:14:17,Crear,Parroquia nuestra senora de belen,Religioso
+,,,,,,, Monumento heroes del Sumapaz,4.271194,-74.495410,0,15,Poi,Fusagasugá,17,ruta prueba guardado,0,268,18,09/06/2021,15:58:26,Crear,Parroquia nuestra senora de la encarnacion,Arquitectonico
+,,,,,,, Valle de Eli,4.343316,-74.378440,0,40,Poi,Fusagasugá,18,ruta prueba guardad2,0,280,35,09/06/2021,15:59:35,Crear,Parroquia nuestra senora de la encarnacion,Religioso
+,,,,,,, Cascada de la honda,4.247072,-74.430200,0,60,Poi,Arbelaéz,19,ruta prueba guarda3,0,440,37,09/06/2021,17:17:56,Crear,Parroquia inmaculada concepcion,Arquitectonico
+,,,,,,, Casona novillero,4.346375,-74.397120,0,30,Poi,Fusagasugá,20,arqueologica-fusa,0,440,37,09/06/2021,17:27:22,Crear,Parroquia inmaculada concepcion,Religioso
+,,,,,,, Casona tierra grata,4.328639,-74.379270,0,15,Poi,Fusagasugá,22,ruta-2,0,219,51,09/06/2021,17:31:25,Crear,Parroquia santa lucia,Arquitectonico
+,,,,,,, Parroquia sagrada familia,4.332730,-74.362650,0,20,Poi,Fusagasugá,23,ruta-1,0,208,10,09/06/2021,17:41:14,Crear,Parroquia santa lucia,Religioso
+,,,,,,, Parque Bonet,4.339635,-74.360800,0,40,Poi,Fusagasugá,24,ruta-4,0,314,35,09/06/2021,17:43:16,Crear,Cerro del Quinini,Sitios Naturales
+,,,,,,, Hacienda Betania,4.360363,-74.374840,0,40,Poi,Fusagasugá,27,ruta-7,0,312,15,09/06/2021,17:48:45,Crear,Cerro del Quinini,Etnologico
+,,,,,,, Monumento indio Sutagao,4.331609,-74.377630,0,15,Poi,Fusagasugá,28,N modulo,0,64,3,09/06/2021,17:54:10,Crear,Cerro del Quinini,Arqueologico
+,,,,,,, Monumento lucho herrera,4.348793,-74.390790,0,15,Poi,Fusagasugá,,,,,,09/06/2021,18:03:45,Crear,Cerro del Quinini,Glamping
+,,,,,,,Cementerio,4.348643,-74.366010,0,20,Poi,Fusagasugá,,,,,,09/06/2021,18:07:11,Crear,Parque san rafael,Sitios Naturales
+,,,,,,, Estadio Fernando Mazuera,4.334850,-74.362980,0,10,Poi,Fusagasugá,,,,,,09/06/2021,19:43:02,Crear,Ecoparque Chinauta,Sitios Naturales
+,,,,,,, Biblioteca Manuel Maria Aya Diaz,4.337583,-74.363320,0,30,Poi,Fusagasugá,,,,,,10/06/2021,22:38:30,Crear,Ecoparque Chinauta,Deportes y aventura
+,,,,,,, Mirador Chinauta,4.297833,-74.455280,0,20,Poi,Fusagasugá,,,,,,10/06/2021,22:39:36,Modificar,Museo de arqueologico,Museos
+,,,,,,, Fundacion vida sana,4.357683,-74.352370,0,15,Poi,Fusagasugá,,,,,,10/06/2021,22:44:17,Crear,Museo de arqueologico,Etnologico
+,,,,,,, Parque agroecologico verde y agua,4.360192,-74.333150,0,180,Poi,Fusagasugá,,,,,,10/06/2021,22:45:11,Modificar,Museo de arqueologico,Arqueologico
+,,,,,,, Hotel Madaura,4.327570,-74.392480,0,150,Poi,Fusagasugá,,,,,,10/06/2021,22:46:27,Modificar,Monumento a la revolución agraria,Monumento ornamental
+,,,,,,, Hacienda la vuelta,4.333458,-74.492200,0,30,Poi,Tibacuy,,,,,,10/06/2021,22:46:40,Modificar,Monumento heroes del sumapaz,Monumento ornamental
+,,,,,,, Granja la portada,4.361523,-74.436430,0,100,Poi,Tibacuy,,,,,,10/06/2021,22:54:10,Crear,Valle de eli,Deportes y aventura
+,,,,,,,Finca la cascada,4.421570,-74.364800,0,40,Poi,Silvania,,,,,,28/06/2021,5:14:49,Crear,Cascada de la honda,Sitios Naturales
+,,,,,,, Templo parroquial maria auxiliadora,4.403672,-74.387130,0,20,Poi,Silvania,,,,,,09/11/2021,23:49:02,Crear,Cascada de la honda,Deportes y aventura
+,,,,,,, Casona las bromelias,4.399386,-74.384260,0,40,Poi,Silvania,,,,,,09/11/2021,23:57:43,Crear,Casona Novillero,Arquitectonico
+,,,,,,, Quebrada la legia,4.258817,-74.413140,0,60,Poi,Arbelaéz,,,,,,26/01/2022,17:24:37,Modificar,Casona Novillero,Historico y artistico
+,,,,,,, Cerro pan de azucar,4.244487,-74.366400,0,60,Poi,Arbelaéz,,,,,,26/01/2022,17:28:30,Modificar,Casona Tierra Grata,Arquitectonico
+,,,,,,, Mesa del medio,4.280559,-74.423270,0,60,Poi,Arbelaéz,,,,,,26/01/2022,17:31:30,Modificar,Casona Tierra Grata,Historico y artistico
+,,,,,,, Ecoaventura park,4.415742,-74.372170,0,150,Poi,Silvania,,,,,,26/01/2022,17:37:13,Crear,Parroquia sagrada familia,Arquitectonico
+,,,,,,,El jardin,4.348508,-74.453290,5000,60,Sitio natural con mirador y piedras con petroglificos y glamping.,Tibacuy,,,,,,26/01/2022,17:37:33,Modificar,Parroquia sagrada familia,Religioso
+,,,,,,,,,,,,,,,,,,,26/01/2022,18:24:22,Modificar,Parque Bonet,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,26/01/2022,18:24:30,Modificar,Hacienda Betania,Arquitectonico
+,,,,,,,,,,,,,,,,,,,26/01/2022,18:34:27,Modificar,Hacienda Betania,Historico y artistico
+,,,,,,,,,,,,,,,,,,,26/01/2022,18:34:36,Modificar,Monumento indio Sutagao,Monumento ornamental
+,,,,,,,,,,,,,,,,,,,14/02/2022,22:40:27,Crear,Monumento lucho herrera,Monumento ornamental
+,,,,,,,,,,,,,,,,,,,14/02/2022,22:45:09,Modificar,Cementerio,Arquitectonico
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:13:11,Crear,Cementerio,Religioso
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:23:47,Modificar,Estadio Fernando Mazuera,Deportes y aventura
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:28:43,Modificar,Biblioteca Manuel Maria Aya Diaz,Arquitectonico
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:29:03,Modificar,Mirador Chinauta,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:35:59,Modificar,Fundacion vida sana,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,14/02/2022,23:36:41,Modificar,Parque ecologico verde y agua ,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,15/02/2022,0:38:46,Modificar,Hotel Madaura,Deportes y aventura
+,,,,,,,,,,,,,,,,,,,15/02/2022,0:40:35,Modificar,Hacienda la vuelta,Arquitectonico
+,,,,,,,,,,,,,,,,,,,15/02/2022,0:55:21,Modificar,Hacienda la vuelta,Historico y artistico
+,,,,,,,,,,,,,,,,,,,15/02/2022,0:55:54,Modificar,Granja la portada,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,15/02/2022,1:03:51,Crear,Finca la cascada,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,16/02/2022,22:31:39,Modificar,Finca la cascada,Deportes y aventura
+,,,,,,,,,,,,,,,,,,,31/03/2022,17:33:05,Modificar,Finca la cascada,Glamping
+,,,,,,,,,,,,,,,,,,,,,,Templo parroquial maria auxiliadora,Arquitectonico
+,,,,,,,,,,,,,,,,,,,,,,Templo parroquial maria auxiliadora,Religioso
+,,,,,,,,,,,,,,,,,,,,,,Casona las bromelias,Arquitectonico
+,,,,,,,,,,,,,,,,,,,,,,Casona las bromelias,Historico y artistico
+,,,,,,,,,,,,,,,,,,,,,,Quebrada la lejia,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,,,,Cerro Pan de Azucar,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,,,,Mesa del medio,Sitios Naturales
+,,,,,,,,,,,,,,,,,,,,,,Ecoaventura Park,Deportes y aventura
